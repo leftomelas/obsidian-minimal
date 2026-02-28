@@ -3,6 +3,8 @@ permalink: features/image-zoom
 ---
 #features
 
+As of Obsidian 1.12 and Minimal 8.2 this feature is deprecated.
+
 Image zoom allows you to click and hold [[images]] in Obsidian to make them larger.
 
 To turn off image zoom open [[Style Settings]] plugin, then go to `Minimal › Images › Disable image zoom`

@@ -1074,11 +1074,6 @@ settings:
 		type: class-toggle
 		default: false
 	-
-		id: zoom-off
-		title: Disable image zoom
-		description: Turns off click + hold to zoom images
-		type: class-toggle
-	-
 		id: image-grid-fit
 		title: Image grid crop
 		description: Sets how images get cropped in a grid
